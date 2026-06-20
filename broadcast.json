@@ -1,7 +1,7 @@
 {
   "messageId": 101,
-  "title": "New Funding Logic Update",
-  "content": "I've improved the 'Amount' cleaning logic. Your search results will now be more accurate!",
+  "title": "Welcome!",
+  "content": "Thank you for choosing Genvium.",
   "isCritical": false,
   "minVersion": "1.0.0"
 }
